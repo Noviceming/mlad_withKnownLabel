@@ -35,3 +35,6 @@ for sensorTrainRatio = 0.02 : 0.01 : 0.03
 end
 
 % Do not use GPU to train autoencoder 1 when sensorTrainRatio = 0.03!
+%
+%
+%
